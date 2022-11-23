@@ -1,0 +1,4 @@
+node_modules/
+.DS*
+._DS*
+.nova/
